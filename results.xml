@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1754059438" />
+    <testcase name="mkmbox_full_test" classname="test_mbox" file="/home/yogesh/mbox_verification/test_mbox.py" lineno="93" time="0.9151265621185303" sim_time_ns="27220.001" ratio_time="29744.52073272284">
+      <failure message="Test failed with RANDOM_SEED=1754059438" />
+    </testcase>
+  </testsuite>
+</testsuites>
